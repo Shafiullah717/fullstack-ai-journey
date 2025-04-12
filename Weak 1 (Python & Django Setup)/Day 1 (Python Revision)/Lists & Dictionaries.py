@@ -49,3 +49,39 @@ squares = [x**2 for x in range(10)]
 
 even = [x for x in range(20) if x % 2 == 0]
 # print(even)
+
+# Dictionaries : key - value Pairs
+# A Dictionry is an unordered, mutable collection of key : value pairs.
+
+# Baic Dictionry Operations
+
+# Create a dictionary
+student = {
+    "name": "Shafiullah ",
+    "age": 21,
+    "courses": ["Math", "Physics"]
+}
+
+# Access values using keys
+print(student["name"])   
+print(student.get("grade", "N/A"))  
+
+# Add/update items
+student["grade"] = "A"         # Add new key
+student["age"] = 22            # Update existing key
+
+# Remove items
+del student["courses"]         # Delete key
+popped_value = student.pop("age")  # Remove and return value
+
+print(student)  
+
+# Dictionary Comprehensions
+# Squares of numbers 0-4
+squares = {x: x**2 for x in range(5)}
+
+
+# Convert list to dictionary (keys as indexes)
+fruits = ["apple", "banana", "cherry"]
+fruit_dict = {i: fruit for i, fruit in enumerate(fruits)}
+
