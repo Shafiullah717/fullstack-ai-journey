@@ -10,8 +10,8 @@ This repo is a weekly log of my progress, learnings, and mini-projects as I upsk
 
 | Week | Focus | Progress |
 |------|-------|----------|
-| 1 | Python Refresher + Django Setup | 🔄 In Progress |
-| 2 | Django REST API | ⏳ Upcoming |
+| 1 | Python Refresher + Django Setup | ✅ Completed |
+| 2 | Django REST API | 🔄 In Progress |
 | 3 | Next.js Integration | ⏳ Upcoming |
 | 4 | Python for ML | ⏳ Upcoming |
 | 5 | Model Integration | ⏳ Upcoming |
@@ -53,6 +53,15 @@ Let’s grow together 💡
 ## 📂 Folder Structure
 ├── week1 (Python & djangosetup) 
 - **Day1** (Python Revison)
+- **Day2** (Install Django & Create First Project)
+- **Day3** (Understand Django project structure)
+- **Day4** (Build simple Urls, views and templates)
+- **Day5** (Django ORM Create Models, Run Migrations and Migrate)
+- **Day6** (Mini Project Blog app and View,post)
+
+├── week2 (Django Rest Framework)
+- **Day1** (Intro to Django Rest Framework)
+
 
 
 
