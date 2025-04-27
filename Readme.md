@@ -12,7 +12,7 @@ This repo is a weekly log of my progress, learnings, and mini-projects as I upsk
 |------|-------|----------|
 | 1 | Python Refresher + Django Setup | ✅ Completed |
 | 2 | Django REST API | 🔄 In Progress |
-| 3 | Next.js Integration | ⏳ Upcoming |
+| 3 | Next.js Integration | 🔄 In Progress |
 | 4 | Python for ML | ⏳ Upcoming |
 | 5 | Model Integration | ⏳ Upcoming |
 | 6 | Graph Visualization | ⏳ Upcoming |
@@ -61,6 +61,11 @@ Let’s grow together 💡
 
 ├── week2 (Django Rest Framework)
 - **Day1** (Intro to Django Rest Framework)
+- **Day2** (Build serializers & class-based views)
+- **Day3** (CRUD API endpoints)
+- **Day4** (Add user authentication)
+- **Day5** (Handle CORS for Next.js requests)
+- **Day6** (Api Project with Authentication)
 
 
 
