@@ -11,7 +11,7 @@ This repo is a weekly log of my progress, learnings, and mini-projects as I upsk
 | Week | Focus | Progress |
 |------|-------|----------|
 | 1 | Python Refresher + Django Setup | ✅ Completed |
-| 2 | Django REST API | 🔄 In Progress |
+| 2 | Django REST API | ✅ Completed |
 | 3 | Next.js Integration | 🔄 In Progress |
 | 4 | Python for ML | ⏳ Upcoming |
 | 5 | Model Integration | ⏳ Upcoming |
