@@ -12,8 +12,8 @@ This repo is a weekly log of my progress, learnings, and mini-projects as I upsk
 |------|-------|----------|
 | 1 | Python Refresher + Django Setup | ✅ Completed |
 | 2 | Django REST API | ✅ Completed |
-| 3 | Next.js Integration | 🔄 In Progress |
-| 4 | Python for ML | ⏳ Upcoming |
+| 3 | Next.js Integration | ✅ Completed |
+| 4 | Python for ML | 🔄 In Progress |
 | 5 | Model Integration | ⏳ Upcoming |
 | 6 | Graph Visualization | ⏳ Upcoming |
 | 7 | Final Deployment | ⏳ Upcoming |
@@ -67,6 +67,13 @@ Let’s grow together 💡
 - **Day5** (Handle CORS for Next.js requests)
 - **Day6** (Api Project with Authentication)
 
+├── week3 ( Next.js with API Integration)
+- **Day1** ( Next.js Basics Setup)
+- **Day2** ( Fetching API Data (Client-Side))
+- **Day3** (Fetching API Data (Server-Side))
+- **Day4** (Authentication (Login + Signup))
+- **Day5** (Organizing API Calls + Small Project Work)
+- **Day6** (Complete Mini Project + Polish)
 
 
 
